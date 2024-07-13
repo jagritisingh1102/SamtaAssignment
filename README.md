@@ -14,7 +14,7 @@ This project is a Bus Ticket Booking System built using Django and Django REST F
 ### 1. Clone the Repository
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/jagritisingh1102/SamtaAssignment.git
 cd bus_ticket_service
 ```
 
